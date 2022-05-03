@@ -1,18 +1,20 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-<!--
-**andrelsmelo/andrelsmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub 🎇
+My name is André Melo, I am 24 years old.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>💬 Contact</summary>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-uriel-camargo-79aa2b190/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+</details> 
+  
+<br/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=andrelsmelo&hide=html&layout=compact&theme=tokyonight
+[![André Melo stats](https://github-readme-stats.vercel.app/api?username=andrelsmelo&theme=tokyonight)](https://github.com/andrelsmelo)
+[![André Melo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelsmelo&hide=html&layout=compact&theme=tokyonight](https://github.com/andrelsmelo)
+
+
