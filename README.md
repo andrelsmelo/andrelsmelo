@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub 🎇
 - My name is André Melo, I am 25 years old.</br></br>
-- FullStack Developer-
+- FullStack Developer
 - **JavaScript, TypeScript, PHP**
 - NodeJs, React, NextJs, MySQL
 
